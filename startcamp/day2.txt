@@ -1,0 +1,42 @@
+git & git hub
+
+git이란 분산버전관리 시스템
+
+(svn은 중앙집중식버전관리 시스템)
+
+git hub를 통한 자료관리
+
+git의 기초
+
+working directory
+staging area
+git directory(repository)
+워킹디렉토리에서 스테이지 픽스를, 스테이징 아리아에서 커밋을,
+깃 디렉토리에서 역으로 트래킹을 실시
+
+자동완성 tap
+
+git init : 현제 작업중인 디렉토리를 git으로 관리한다는 명령어
+
+git status
+파일의 현재 상태를 알려주는 명령어
+
+git add
+해당 파일을 추적 할 수 있게 만들어주는 명령어
+즉 git의 관리를 받는 파일로 추가한다는 의미
+
+git commit
+
+git log
+
+옵션과 인자
+
+---
+git remote add origin
+git remote -v
+git remote rm
+
+git hub에서 퀵 셋업에서 명령어 확인 가능
+
+
+ 
